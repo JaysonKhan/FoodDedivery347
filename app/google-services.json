@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "525501632975",
+    "project_id": "maxway-hk",
+    "storage_bucket": "maxway-hk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525501632975:android:93976dcedef9836a46c2ba",
+        "android_client_info": {
+          "package_name": "uz.gita.firebasemaxway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525501632975-vlc0svfrntlin8htrj0vd718qr5ebvge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.gita.firebasemaxway",
+            "certificate_hash": "e27af53be4df8d2c26bc9986c7444f6553a85f97"
+          }
+        },
+        {
+          "client_id": "525501632975-bccmhi1ad6nng6u40pa76qlsq17ejtub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKWjkNGHsa630Cq8V63_ZdK_fZqmsop_8"
+        },
+        {
+          "current_key": "AIzaSyCGnwvFUpyDXFetQ4V5FiSBffH4ywxdcxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525501632975-bccmhi1ad6nng6u40pa76qlsq17ejtub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525501632975:android:aed38f354ac7c27946c2ba",
+        "android_client_info": {
+          "package_name": "uz.gita.fooddedivery347"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525501632975-vsfk03k0uucaqscoajpdsei0fkisc3h3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.gita.fooddedivery347",
+            "certificate_hash": "e27af53be4df8d2c26bc9986c7444f6553a85f97"
+          }
+        },
+        {
+          "client_id": "525501632975-bccmhi1ad6nng6u40pa76qlsq17ejtub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKWjkNGHsa630Cq8V63_ZdK_fZqmsop_8"
+        },
+        {
+          "current_key": "AIzaSyCGnwvFUpyDXFetQ4V5FiSBffH4ywxdcxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525501632975-bccmhi1ad6nng6u40pa76qlsq17ejtub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
